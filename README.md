@@ -1,7 +1,7 @@
-# My React App
+# MovieLand
 
 ## 📌 Description
-My React App is a React-based application that allows users to search for a movie by name and view its release year. The app provides a simple and user-friendly interface for quick movie information.
+MovieLand is a React-based application that allows users to search for a movie by name and view its release year. The app provides a simple and user-friendly interface for quick movie information.
 
 ---
 
